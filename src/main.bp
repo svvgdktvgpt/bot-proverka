@@ -1,0 +1,47 @@
+{
+  "positions" : [ {
+    "id" : "/newNode_0",
+    "name" : "col#0",
+    "actionTitles" : [ "", null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_1",
+    "name" : "col#0",
+    "boundsTo" : "/newNode_0",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_2",
+    "name" : "col#0",
+    "boundsTo" : "",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_3",
+    "name" : "col#1",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_4",
+    "name" : "col#1",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_5",
+    "name" : "col#2",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_6",
+    "name" : "col#2",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  } ]
+}
